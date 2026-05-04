@@ -1,4 +1,4 @@
-# ⚡ ManagerZero
+#  ManagerZero
 
 > **The AI-Powered Chief of Staff for Engineering Managers**
 
@@ -6,9 +6,9 @@ ManagerZero is a full-stack AI platform that automates the operational overhead 
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 🧠 Multi-Agent AI Backend
+###  Multi-Agent AI Backend
 ManagerZero runs a fleet of specialized AI agents, each with a single, focused responsibility:
 
 | Module | Agents |
@@ -42,7 +42,7 @@ ManagerZero runs a fleet of specialized AI agents, each with a single, focused r
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 ### Frontend (`managerzero/`)
 | Technology | Purpose |
@@ -185,7 +185,7 @@ POST /api/feedback/analyze       # Analyze feedback submissions
 
 ---
 
-## 🔐 Environment Variables
+##  Environment Variables
 
 | Variable | Required | Description |
 |---|---|---|
@@ -193,7 +193,7 @@ POST /api/feedback/analyze       # Analyze feedback submissions
 | `RESEND_API_KEY` | ⚠️ Optional | For email drafting features |
 | `PORT` | ⚠️ Optional | Server port (default: 5000) |
 
-> ⚠️ **Never commit your `.env` file.** It is already excluded via `.gitignore`.
+
 
 ---
 
@@ -207,7 +207,4 @@ POST /api/feedback/analyze       # Analyze feedback submissions
 ---
 
 ## 📬 Contact
-
-Built with ❤️ for hackathon.
-
 **Sankalp Kumar** — [2004sankalp@gmail.com](mailto:2004sankalp@gmail.com)
